@@ -221,7 +221,7 @@ header{
         background-color:white ;
         transform: translateX(100%);
         transition: .5s ;
-        height: 35vh;
+        height: 55vh;
         padding: 30px;
         border-radius: 7px;
     }
